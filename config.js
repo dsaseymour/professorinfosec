@@ -13,7 +13,7 @@ module.exports = {
   menu: [
     {
       label: "My Website",
-      path: "https://dannyseymour.me"
+      path: "/pages/website"
     },
     {
       label: "Articles",
