@@ -5,7 +5,7 @@
   "main": "n/a",
   "scripts": {
     "develop": "npm run clean && gatsby develop",
-    "build": "npm run clean && gatsby build",
+    "build": "npm run clean && gatsby build --prefix-paths",
     "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
     "deploy:github": "npm run build && node ./scripts/deploy-github",
     "clean": "rimraf .cache public",

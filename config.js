@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-  url: "https://lumen.netlify.com",
+  url: "https://dannyseymour.me",
   pathPrefix: "/blog",
   title: "Professor Infosec",
   subtitle: "Painting the Big Picture without missing the details",
@@ -17,20 +17,20 @@ module.exports = {
     },
     {
       label: "Articles",
-      path: "/"
+      path: "/blog"
     },
     {
       label: "About me",
-      path: "/pages/about"
+      path: "/blog/pages/about"
     },
     {
       label: "Contact me",
-      path: "/pages/contacts"
+      path: "/blog/pages/contacts"
     }
   ],
   author: {
     name: "Danny Seymour",
-    photo: "/photo.jpg",
+    photo: "/blog/photo.jpg",
     bio: "FullStack Developer.",
     contacts: {
       email: "#",

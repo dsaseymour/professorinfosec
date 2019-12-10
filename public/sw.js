@@ -26,7 +26,7 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-87c892cdf2f0e150d022.js"
+    "url": "webpack-runtime-63b2337fa0a8cd26ce8a.js"
   },
   {
     "url": "styles.8fc8792284e697f5c5ad.css"
@@ -35,24 +35,28 @@ self.__precacheManifest = [
     "url": "styles-e505cf47bda8ee0c73d0.js"
   },
   {
-    "url": "app-82370d5cccb2b4bed1e8.js"
+    "url": "app-438edcadcb7024acf38e.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-1595fd9bcd9902e26bdf.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "a8a58b9d467489feb2c9b9642dda34b1"
+    "revision": "d95fa471a3199879402d7b8fe5ce5d82"
   },
   {
-    "url": "component---src-templates-not-found-template-js-4076596d31c70be58e76.js"
+    "url": "component---src-templates-not-found-template-js-eac4fd85a09863d30d58.js"
   },
   {
     "url": "1-74f3327beb65c7b3a490.js"
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "cfef3a657d86cc280921e264c3d95dbc"
+    "revision": "10f9ad66d4d9b9a48789f0edcf17604b"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "bf4b9dbb44686f1a8bc472d5df4a1fe9"
   },
   {
     "url": "manifest.json",
@@ -82,7 +86,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/blog/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -154,7 +158,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `${pathname}`
+        return `/blog${pathname}`
       } else {
         return pathname
       }
