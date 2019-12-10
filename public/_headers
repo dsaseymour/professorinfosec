@@ -78,7 +78,7 @@
   Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
   Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
   Link: </blog/component---src-templates-not-found-template-js-360de029b4e4dbe8957b.js>; rel=preload; as=script
-/blog/posts/the-origins-of-social-stationery-lettering
+/blog/posts/perfecting-the-art-of-perfection/
   Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
   Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
   Link: </blog/app-438edcadcb7024acf38e.js>; rel=preload; as=script
@@ -86,7 +86,7 @@
   Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
   Link: </blog/2-6aeba27c26a5b6388c75.js>; rel=preload; as=script
   Link: </blog/component---src-templates-post-template-js-4d2f53903742d457244a.js>; rel=preload; as=script
-/blog/posts/perfecting-the-art-of-perfection/
+/blog/posts/the-origins-of-social-stationery-lettering
   Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
   Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
   Link: </blog/app-438edcadcb7024acf38e.js>; rel=preload; as=script
@@ -102,13 +102,6 @@
   Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
   Link: </blog/2-6aeba27c26a5b6388c75.js>; rel=preload; as=script
   Link: </blog/component---src-templates-post-template-js-4d2f53903742d457244a.js>; rel=preload; as=script
-/blog/pages/website/
-  Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
-  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
-  Link: </blog/app-438edcadcb7024acf38e.js>; rel=preload; as=script
-  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
-  Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-page-template-js-9bd0acf6dd43ee478e47.js>; rel=preload; as=script
 /blog/posts/humane-typography-in-the-digital-age/
   Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
   Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
@@ -117,14 +110,7 @@
   Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
   Link: </blog/2-6aeba27c26a5b6388c75.js>; rel=preload; as=script
   Link: </blog/component---src-templates-post-template-js-4d2f53903742d457244a.js>; rel=preload; as=script
-/blog/pages/about/
-  Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
-  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
-  Link: </blog/app-438edcadcb7024acf38e.js>; rel=preload; as=script
-  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
-  Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
-  Link: </blog/component---src-templates-page-template-js-9bd0acf6dd43ee478e47.js>; rel=preload; as=script
-/blog/pages/contacts/
+/blog/pages/website/
   Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
   Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
   Link: </blog/app-438edcadcb7024acf38e.js>; rel=preload; as=script
@@ -139,6 +125,20 @@
   Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
   Link: </blog/2-6aeba27c26a5b6388c75.js>; rel=preload; as=script
   Link: </blog/component---src-templates-post-template-js-4d2f53903742d457244a.js>; rel=preload; as=script
+/blog/pages/contacts/
+  Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
+  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
+  Link: </blog/app-438edcadcb7024acf38e.js>; rel=preload; as=script
+  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
+  Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-page-template-js-9bd0acf6dd43ee478e47.js>; rel=preload; as=script
+/blog/pages/about/
+  Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
+  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
+  Link: </blog/app-438edcadcb7024acf38e.js>; rel=preload; as=script
+  Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
+  Link: </blog/1-74f3327beb65c7b3a490.js>; rel=preload; as=script
+  Link: </blog/component---src-templates-page-template-js-9bd0acf6dd43ee478e47.js>; rel=preload; as=script
 /blog/posts/the-birth-of-movable-type/
   Link: </blog/webpack-runtime-81abef0221c626c40e08.js>; rel=preload; as=script
   Link: </blog/styles-e505cf47bda8ee0c73d0.js>; rel=preload; as=script
