@@ -17,26 +17,26 @@ module.exports = {
     },
     {
       label: "Articles",
-      path: "/blog"
+      path: "/"
     },
     {
       label: "About me",
-      path: "/blog/pages/about"
+      path: "/pages/about"
     },
     {
       label: "Contact me",
-      path: "/blog/pages/contacts"
+      path: "/pages/contacts"
     }
   ],
   author: {
     name: "Danny Seymour",
-    photo: "/blog/photo.jpg",
+    photo: "/photo.jpg",
     bio: "FullStack Developer.",
     contacts: {
       email: "#",
       telegram: "#",
-      twitter: "https://twitter.com/Danny_SASeymour",
-      github: "https://github.com/dsaseymour",
+      twitter: "/Danny_SASeymour",
+      github: "/dsaseymour",
       rss: "#",
       vkontakte: "#"
     }
