@@ -2,12 +2,12 @@
 
 module.exports = {
   url: "https://lumen.netlify.com",
-  pathPrefix: "/",
+  pathPrefix: "/blog",
   title: "Professor Infosec",
   subtitle: "Painting the Big Picture without missing the details",
   copyright: "Danny Seymour © All rights reserved.",
   disqusShortname: "",
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
@@ -17,20 +17,20 @@ module.exports = {
     },
     {
       label: "Articles",
-      path: "/blog/"
+      path: "/"
     },
     {
       label: "About me",
-      path: "/blog/pages/about"
+      path: "/pages/about"
     },
     {
       label: "Contact me",
-      path: "/blog/pages/contacts"
+      path: "/pages/contacts"
     }
   ],
   author: {
     name: "Danny Seymour",
-    photo: "/photo.jpeg",
+    photo: "/photo.jpg",
     bio: "FullStack Developer.",
     contacts: {
       email: "#",
