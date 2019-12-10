@@ -13,7 +13,7 @@ module.exports = {
   menu: [
     {
       label: "My Website",
-      path: "/"
+      path: "https://dannyseymour.me"
     },
     {
       label: "Articles",
@@ -35,8 +35,8 @@ module.exports = {
     contacts: {
       email: "#",
       telegram: "#",
-      twitter: "/Danny_SASeymour",
-      github: "/dsaseymour",
+      twitter: "Danny_SASeymour",
+      github: "dsaseymour",
       rss: "#",
       vkontakte: "#"
     }
