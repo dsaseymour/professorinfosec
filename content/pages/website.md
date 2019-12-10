@@ -3,4 +3,4 @@ title: "Website"
 template: "page"
 ---
 
-Visit my Website to view my projects and other information [I'm an inline-style link with title](https://dannyseymour.me "Danny's Website")
+Visit my Website to view my projects and other information [Danny Seymour.me](https://dannyseymour.me "Danny's Website")
